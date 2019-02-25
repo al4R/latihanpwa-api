@@ -1,0 +1,123 @@
+{
+"mahasiswa":[{
+  "id": 1,
+  "name": "Devan Carbonell",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "name": "Alena O'Halligan",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "name": "Jareb Caplen",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Cherry Liepins",
+  "gender": "Female"
+}, {
+  "id": 5,
+  "name": "Anselma Ismead",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "name": "Wait Mutton",
+  "gender": "Male"
+}, {
+  "id": 7,
+  "name": "Reagen Pechell",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Jimmy Androck",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "name": "Taite Enrich",
+  "gender": "Male"
+}, {
+  "id": 10,
+  "name": "Elmer Quinney",
+  "gender": "Male"
+}, {
+  "id": 11,
+  "name": "Faber Tabert",
+  "gender": "Male"
+}, {
+  "id": 12,
+  "name": "Poul Laughtisse",
+  "gender": "Male"
+}, {
+  "id": 13,
+  "name": "George Sare",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Debera Absolem",
+  "gender": "Female"
+}, {
+  "id": 15,
+  "name": "Matti Hairon",
+  "gender": "Female"
+}, {
+  "id": 16,
+  "name": "Philip Germann",
+  "gender": "Male"
+}, {
+  "id": 17,
+  "name": "Loutitia Mahy",
+  "gender": "Female"
+}, {
+  "id": 18,
+  "name": "Betteanne Northen",
+  "gender": "Female"
+}, {
+  "id": 19,
+  "name": "Amory Lambrecht",
+  "gender": "Male"
+}, {
+  "id": 20,
+  "name": "Torrance Spilsted",
+  "gender": "Male"
+}, {
+  "id": 21,
+  "name": "Auria Trassler",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "name": "Myrle Louder",
+  "gender": "Female"
+}, {
+  "id": 23,
+  "name": "Averell Braybrooks",
+  "gender": "Male"
+}, {
+  "id": 24,
+  "name": "Kary Paskell",
+  "gender": "Female"
+}, {
+  "id": 25,
+  "name": "Waring Bartalin",
+  "gender": "Male"
+}, {
+  "id": 26,
+  "name": "Lemar Andryunin",
+  "gender": "Male"
+}, {
+  "id": 27,
+  "name": "Sammie Tompkiss",
+  "gender": "Male"
+}, {
+  "id": 28,
+  "name": "Dwight Ovendale",
+  "gender": "Male"
+}, {
+  "id": 29,
+  "name": "Christian Laguerre",
+  "gender": "Male"
+}, {
+  "id": 30,
+  "name": "Raynor Gronauer",
+  "gender": "Male"
+}]
+}
