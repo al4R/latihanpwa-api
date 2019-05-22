@@ -3,19 +3,19 @@
  [{
   "id": 1,
     "name": "GROW",
-    "peng": "Ini proyek Aplikasi saya",
+    "peng": "Ini proyek Aplikasi saya"
   },
  
   {
   "id": 2,
     "name": "Mari Belajar",
-    "peng": "Ini proyek PAP saya",
+    "peng": "Ini proyek PAP saya"
   },
  
   {
   "id": 3,
    "name": "BenRaBoros",
-    "peng": "Ini proyek PAPB saya",
+    "peng": "Ini proyek PAPB saya"
   }]
 
 }
